@@ -1,0 +1,4 @@
+C:\Users\Peteris.Rautmanis\source\repos\Train\Trainings\Debug\Trainings.exe
+C:\Users\Peteris.Rautmanis\source\repos\Train\Trainings\Debug\Trainings.pdb
+C:\Users\TeddyBear\Desktop\Train\Trainings\Debug\Trainings.exe
+C:\Users\TeddyBear\Desktop\Train\Trainings\Debug\Trainings.pdb

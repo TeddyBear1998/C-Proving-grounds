@@ -1,0 +1,4 @@
+﻿  Calculator.cpp
+C:\Users\TeddyBear\Desktop\Train\Trainings\Calculator.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\TeddyBear\Desktop\Train\Trainings\Calculator.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Trainings.vcxproj -> C:\Users\TeddyBear\Desktop\Train\Trainings\Debug\Trainings.exe
